@@ -1,0 +1,5 @@
+MONO_DEBUG=gen-compact-seq-points
+XAMARIN_BUILD_ID=de3d6350-7d71-4dd1-b0a4-998a6177ab2e
+XA_HTTP_CLIENT_HANDLER_TYPE=System.Net.Http.HttpClientHandler, System.Net.Http
+XA_TLS_PROVIDER=default
+MONO_GC_PARAMS=major=marksweep
